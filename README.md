@@ -94,3 +94,50 @@ g) Displays the elements of the array V and the array T</br>
 # Exam-2019-1-Exercise-6 :</br>
 Write a program C that fills a two-dimensional array M[4][3] by integer numbers (2 ½ pts)</br>
 The program must calculate and display the average of the positive numbers in M</br>
+
+# Exam-2018-2-Exercise-1 :</br>
+What is the result displayed by the following C program? (2 pts)</br>
+# Exam-2018-2-Exercise-2 :</br>
+II- Write, for each sequence, the corresponding C program: (3 pts)</br>
+a) 5 10 15 20 25</br>
+b) 1 4 13 40 121</br>
+c) 1000 500 250 125 62</br>
+# Exam-2018-2-Exercise-3 :</br>
+int m = 7 , y = 22 ;</br>
+int P ;</br>
+float R ;</br>
+What is the value assigned to the different variables involved in each of the following instructions?</br>
+R = y/m;</br>
+y = m = = y; </br>
+P= y % m + y > m;</br>
+R = (float) y / m;</br>
+### Solution:
+3.000000</br>
+0</br>
+1</br>
+3.142857</br>
+# Exam-2018-2-Exercise-4 :</br>
+V- Write a program in C language that: (10 pts)</br>
+a) Creates a one-dimensional array V1 composed of 8 elements.</br>
+b) Fills the array V1 by positive integer numbers.</br>
+c) Calculates and displays the sum of the numbers in V1.</br>
+d) Changes the values of the array elements of V1 such that: the elements with odd index are multiplied by two </br>
+and the elements in even index are added by 1.</br>
+e) Creates, from the values of the array V1, the array V2 containing in each of its cases the subtraction of the successive cases of V1:</br>
+- The first value of V2 is equal to the first value of V1.</br>
+- Each value of the case V2 = the value of the preceding case of V1 – the value of the case of V1 having the same index of V2 { V[i-1] - V[i] } previos-current.
+Example:</br>
+Array V1 </br>
+12 8 4 3 6 2 1 1</br>
+After update:</br>
+Array V1 </br>
+13 16 5 6 7 4 2 2</br>
+Array V2</br>
+13 -3 11 -1 -1 3 2 0</br>
+f) Sorts the array V1 in ascending order.</br>
+g) Displays the contents of the array V1 (each value in a row).</br>
+# Exam-2018-2-Exercise-5 :</br>
+V- Write, in C language, a function Disp () which accepts as parameter a string of characters CH and performs the </br>
+following treatments: (4 pts)</br>
+a) Displays the string CH character by character (only one character on each row).</br> 
+b) Calculates and returns the number of existing spaces in this string.</br>

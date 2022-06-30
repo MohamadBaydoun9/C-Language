@@ -13,7 +13,7 @@ f. Create from array TAB1 another array T as Follow:
 
 #include<stdio.h> 
 int main(){ 
-	int TAB1[7], i, T[7], j;       //part a
+	int TAB1[7], i, T[7], j;       		//part a
 	
 	for(i=0;i<7;i++){                   //part b
 		do{ 
