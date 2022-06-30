@@ -141,3 +141,74 @@ V- Write, in C language, a function Disp () which accepts as parameter a string 
 following treatments: (4 pts)</br>
 a) Displays the string CH character by character (only one character on each row).</br> 
 b) Calculates and returns the number of existing spaces in this string.</br>
+# Exam-2018-1-Exercise-1 :</br>
+I- Given a, b and c integer variables to which the following values have been affected: (1 pt)</br>
+a = 8</br>
+b = 3</br>
+c = -5 </br>
+Determine the value of the following arithmetic expressions:</br>
+a) 2 * b + 3 * (a – c)</br>
+b) a / b</br>
+c) a % b</br>
+d) a * (b / c)</br>
+### Solution</br>
+int a=8, b=3, c=-5</br>
+a) 45 2 * b + 3 * (a – c)</br>
+2 * 3 + 3 * (8 + 5)</br>
+6 + 3 * 13</br>
+6 + 39</br>
+=45</br>
+b)  a / b</br>
+8 / 3</br>
+=2</br>
+c)  a % b</br>
+8 % 3</br>
+=2</br>
+d)  a * (b / c)</br>
+8 * (3 / -5)</br>
+8 * 0</br>
+=0</br>
+# Exam-2018-1-Exercise-2 :</br>
+II- Write, in C language, the programs that display the following sequences, using: (3 pts)</br>
+a) The loop "for".</br>
+3 5 7 9 11 13 15 17 </br>
+b) The loop "While".</br>
+2 3 5 9 17 33 65 129 </br>
+c) The loop "do – While"</br>
+19 15 11 7 3 -1 -5 -9</br>
+# Exam-2018-1-Exercise-3 :</br>
+III- Write in C language a function ESPD ( ) that accepts as parameter a String TEXT and a character VAR, the</br>
+function must perform the following treatments: ( 3 pts)</br>
+a- Display the string TEXT in reverse order.</br>
+b- Calculate and return the number of occurrences of the character VAR in the string TEXT.</br>
+Example: If the string TEXT contains the following characters:</br>
+And the character VAR is "r": the program must return 2.</br>
+# Exam-2018-1-Exercise-4 :</br>
+IV- Write a program in C language that: (10 pts)</br>
+a) Creates a one-dimensional array V containing 12 elements of type integer</br>
+b) Fills the array V by integer positive numbers.</br>
+c) Calculates and displays the sum of the numbers multiples of 5 in V.</br>
+d) Calculates and displays the product of the numbers of even index (even rank) in V.</br>
+e) Creates from the array V the array T containing all the elements of the array V as follows:</br>
+- The first element of the array T contains the value of the first element of the array V.</br>
+- The second element of the array T contains the value of the last element of the array V.</br>
+- The third element of the array T contains the value of the second element of the array V.</br>
+- The fourth element of the array T contains the value of the second to last element of the array V</br>.
+- And so on ...</br>
+Example:</br>
+Array V
+2 20 30 7 38 9 11 8 2 60 28 22</br>
+Array T</br>
+2 22 20 28 30 60 7 2 38 8 9 11</br>
+f) Sorts the array V in descending order.</br>
+g) Displays the elements of the array V and the array T.</br>
+
+# Exam-2018-1-Exercise-5 :</br>
+Write a C program that fills a two-dimensional array T[6][4] by integer numbers given by the user. (3 pts)</br>
+The program must calculate and display the sum of the numbers of each column of the array.</br>
+For example, if you fill the array T with the following numbers:
+The program must display the following form:</br>
+The sum of the column 1 is 188</br>
+The sum of the column 2 is 75</br>
+The sum of the column 3 is 114</br>
+The sum of the column 4 is 92</br>
