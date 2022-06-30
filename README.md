@@ -47,7 +47,7 @@ int  main(){ </br>
 	printf("%d\n", d); //d</br>
 	printf("%d\n", d); //e</br>
 	printf("%d\n", a>b); //f</br>
-}</br>
+}
 ### Solution:</br>
 4</br>
 4.000000</br>
@@ -55,3 +55,42 @@ int  main(){ </br>
 3</br>
 3</br>
 1</br>
+# Exam-2019-1-Exercise-2 :</br>
+Write a program in C language that displays the sequence of N terms of the following sequence: (2 ½ pts)</br>
+11 13 10 12 9 11 8 10 7 . . . N is an integer number given by the user</br>
+Ex: If N = 6 the program should display: 11 13 10 12 9 11</br>
+# Exam-2019-1-Exercise-3 :</br>
+Write a program in C language that displays N lines with the form below: (2 ½ pts)</br>
+If N = 6
+*</br>
++ +</br>
+* * *</br>
++ + + +</br>
+* * * * *</br>
++ + + + + +</br>
+N is a positive integer entered by the user</br>
+# Exam-2019-1-Exercise-4 :</br>
+Write in C language, a function PART which accepts a string of characters Text, then permits to divide the characters in </br>
+this string into three strings and display them: (4 pts)</br>
+String CL: a string of letters</br>
+String CC: a string of numbers and </br>
+String CS: a string of other characters</br>
+# Exam-2019-1-Exercise-5 :</br>
+Write a program in C language that: (7 pts)</br>
+a) Creates a one-dimensional array V containing nine integer elements</br>
+b) Fills the array V by positive integer numbers</br>
+c) Calculates and displays the sum of multiples of 3 in V</br>
+d) Calculates and displays the product of negative numbers of odd rank in V</br>
+e) Creates from array V another array T of the same dimension as V knowing that:</br>
+	- If the value of the array V contains an even number, put a 0, as value, at the same index in T</br>
+	- If the value of the array V is odd then we put a “1”, as value, at the same index in T</br>
+Example:</br>
+Table V</br>
+12 3 20 14 30 -20 19 -5 8</br>
+Table T will be</br>
+0 1 0 0 0 0 1 1 0</br>
+f) Sort the vector V in descending order</br>
+g) Displays the elements of the array V and the array T</br>
+# Exam-2019-1-Exercise-6 :</br>
+Write a program C that fills a two-dimensional array M[4][3] by integer numbers (2 ½ pts)</br>
+The program must calculate and display the average of the positive numbers in M</br>
