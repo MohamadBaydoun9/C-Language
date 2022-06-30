@@ -29,3 +29,29 @@ Write a program in C language which allows you to: (8 pts) </br>
 5- Divide the array A into 2 arrays A1 and A2 knowing that: </br>
 The first array A1 must contain the even numbers from the array A and the second A2 the odd numbers.</br>
 6- Sort the array A by ascending order </br>
+## Exam-2019-1-Exercise-1 :</br>
+Display the result given by the following program: (1 ½ pts) </br>
+#include <stdio.h></br>
+#include <math.h></br>
+int  main(){ </br>
+	int a=19, b=4, c, d, s;</br>
+	float r, f;</br>
+	c=a/b;</br>
+	f=a/b;</br>
+	r=(float) a/b;</br>
+	d=a%b;</br>
+	s=sqrt(a*b-(a-b-3));</br>
+	printf("%d\n", c); //a</br>
+	printf("%f\n", f); //b</br>
+	printf("%f\n", r); //c</br>
+	printf("%d\n", d); //d</br>
+	printf("%d\n", d); //e</br>
+	printf("%d\n", a>b); //f</br>
+}</br>
+### Solution:</br>
+4</br>
+4.000000</br>
+4.750000</br>
+3</br>
+3</br>
+1</br>
