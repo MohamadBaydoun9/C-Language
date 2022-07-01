@@ -226,7 +226,7 @@ please enter the number of n: 5</br>
 # PyramidPattern2 </br>
 Display The Following Pattern:</br>
 Enter the number of rows: 6</br>
-* * * * * * * * * * *</br>
+\* \* * * * * * * * * *</br>
   * * * * * * * * *</br>
     * * * * * * *</br>
       * * * * *</br>
