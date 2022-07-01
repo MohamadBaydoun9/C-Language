@@ -61,7 +61,7 @@ Write a program in C language that displays the sequence of N terms of the follo
 Ex: If N = 6 the program should display: 11 13 10 12 9 11</br>
 # Exam-2019-1-Exercise-3 :</br>
 Write a program in C language that displays N lines with the form below: (2 ½ pts)</br>
-If N = 6
+If N = 6</br>
 \*</br>
 \+ +</br>
 \* * *</br>
