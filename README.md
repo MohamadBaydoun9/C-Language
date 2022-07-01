@@ -227,8 +227,8 @@ please enter the number of n: 5</br>
 Display The Following Pattern:</br>
 Enter the number of rows: 6</br>
 \* \* * * * * * * * * *</br>
-&nbsp;\* * * * * * * * *</br>
-&nbsp;&nbsp;\* * * * * * *</br>
-&nbsp;&nbsp;&nbsp;\* * * * *</br>
-&nbsp;&nbsp;&nbsp;&nbsp;\* * *</br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*</br>
+&nbsp;&nbsp;\* * * * * * * * *</br>
+&nbsp;&nbsp;&nbsp;&nbsp;\* * * * * * *</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\* * * * *</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\* * *</br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\*</br>
