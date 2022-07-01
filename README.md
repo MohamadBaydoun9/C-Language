@@ -212,3 +212,23 @@ The sum of the column 1 is 188</br>
 The sum of the column 2 is 75</br>
 The sum of the column 3 is 114</br>
 The sum of the column 4 is 92</br>
+# MinimumNumberInArray</br>
+fill the array a[8];</br>
+find the Minumum Number in the Array a[8];</br>
+# PyramidPattern1</br>
+Display The Following Pattern:</br>
+please enter the number of n: 5</br>
+1       1       1       1       1</br>
+2       2       2       2</br>
+3       3       3</br>
+4       4</br>
+5 </br>
+# PyramidPattern2 </br>
+Display The Following Pattern:</br>
+Enter the number of rows: 6</br>
+* * * * * * * * * * *</br>
+  * * * * * * * * *</br>
+    * * * * * * *</br>
+      * * * * *</br>
+        * * *</br>
+          *</br>
