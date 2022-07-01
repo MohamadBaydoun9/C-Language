@@ -62,12 +62,12 @@ Ex: If N = 6 the program should display: 11 13 10 12 9 11</br>
 # Exam-2019-1-Exercise-3 :</br>
 Write a program in C language that displays N lines with the form below: (2 ½ pts)</br>
 If N = 6
-*</br>
-+ +</br>
-* * *</br>
-+ + + +</br>
-* * * * *</br>
-+ + + + + +</br>
+\*</br>
+\+ +</br>
+\* * *</br>
+\+ + + +</br>
+\* * * * *</br>
+\+ + + + + +</br>
 N is a positive integer entered by the user</br>
 # Exam-2019-1-Exercise-4 :</br>
 Write in C language, a function PART which accepts a string of characters Text, then permits to divide the characters in </br>
